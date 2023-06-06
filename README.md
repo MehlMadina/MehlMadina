@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://fb.com/madina mehl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madina mehl" height="30" width="40" /></a>
 <a href="https://instagram.com/madinamehl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madinamehl" height="30" width="40" /></a>
-  <a href="[https://instagram.com/madinamehl](https://m.vk.com/id495192775)" target="blank"><img align="center" src=["https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.sv](https://icons8.ru/icon/13977/вконтакте)g" alt="madinamehl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
