@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Madina.</h1>
-<h3 align="center">A passionate Frontend Developer from Russia.</h3>
+<h3 align="center">I'm Frontend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehlmadina&label=Profile%20views&color=0e75b6&style=flat" alt="mehlmadina" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m looking for a job as a front-end developer.
+
+💬 I love what I do and do what I love.
 
 - 📫 How to reach me **madina.mel.99@mail.ru**
 
